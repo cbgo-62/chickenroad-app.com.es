@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chicken Road Demo – Juega Gratis y Descubre su Magia on Chickenroad-app</title>
-    <link>http://localhost:1313/demo/</link>
+    <link>https://chickenroad-app.com.es/demo/</link>
     <description>Recent content in Chicken Road Demo – Juega Gratis y Descubre su Magia on Chickenroad-app</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/demo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chickenroad-app.com.es/demo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
